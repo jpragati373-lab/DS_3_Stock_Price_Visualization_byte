@@ -5,7 +5,7 @@ Data Science Internship – Task 3: Stock Price Data Visualization
 
 ## Project overview
 
-An interactive Streamlit application for exploring historical stock prices, moving averages, and daily returns from a downloaded Yahoo Finance CSV. The app reads the raw CSV without modifying it and derives analytical columns in memory.
+An interactive Streamlit application for exploring historical stock prices, moving averages, and daily returns from a downloaded Yahoo Finance CSV. All runtime data loading, cleaning, calculations, interactive Plotly charts, and CSV downloads are contained in `app.py`. The app reads the raw CSV without modifying it and derives analytical columns in memory; it does not require the notebook or fetch script to run.
 
 ## Objective
 
@@ -31,6 +31,7 @@ The downloaded file currently spans **2015-01-01 through 2026-10-01**, as record
 - NumPy
 - Matplotlib
 - Seaborn
+- Plotly (interactive dashboard charts)
 - yfinance (for the data-fetching script)
 
 ## Data cleaning
