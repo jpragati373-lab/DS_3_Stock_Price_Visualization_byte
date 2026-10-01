@@ -125,8 +125,8 @@ No screenshots of the running app have been captured yet. Add them to `screensho
 
 ## GitHub Repository
 
-No GitHub repository has been created; no repository URL is available.
+https://github.com/jpragati373-lab/DS_3_Stock_Price_Visualization_byte
 
 ## Live Demo
 
-**Live Demo URL: Not deployed. No deployment URL has been provided.**
+[Open the live Stock Price Data Visualization dashboard](https://ds3stockpricevisualizationbyte-fw5ve2tra2wtzaqkxk2jbd.streamlit.app/)
